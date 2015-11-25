@@ -1,7 +1,7 @@
 {
   "name": "nodesocket-chat",
   "version": "0.0.1",
-  "description": "my first socket.io app",
+  "description": "Socket.io app",
   "private": true,
   "scripts": {
     "start": "node ./bin/www"
